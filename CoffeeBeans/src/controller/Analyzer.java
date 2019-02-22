@@ -1,7 +1,5 @@
-package view;
+package controller;
 
-import controller.CanFiller;
-import controller.Processor;
 import model.Bean;
 
 import java.io.IOException;
@@ -11,7 +9,6 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.Collections;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class Analyzer {
     private List<Bean> beans=CanFiller.fill();
@@ -24,18 +21,23 @@ public class Analyzer {
 
     private void giveLastBeanColorPercentage(Bean lastBean) {
         String color = lastBean.getColor();
-        Path path = Paths.get("file/output");
-        try {
-            Files.write(path, Collections.singleton(color), StandardOpenOption.APPEND);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        Path path = whriteStatistics(color);
         try {
             List<String> attempts = Files.readAllLines(path);
             attempts.stream().mapToLong(e-> getPercentage(e)).forEach(e -> System.out.println(e));
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private Path whriteStatistics(String color) {
+        Path path = Paths.get("file/output");
+        try {
+            Files.write(path, Collections.singleton(color), StandardOpenOption.APPEND);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return path;
     }
 
     private void giveBeansColorsPercentage(List<Bean> beans) {
