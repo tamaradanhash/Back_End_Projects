@@ -12,33 +12,13 @@ import java.util.List;
 
 public class Analyzer {
     private List<Bean> beans=CanFiller.fill();
-    private Bean lastBean= Processor.getLastBean();
+    private List<Bean> lastBean= Processor.getLastBean();
     public void analyse(){
         giveBeansColorsPercentage(beans);
-        giveLastBeanColorPercentage(lastBean);
 
     }
 
-    private void giveLastBeanColorPercentage(Bean lastBean) {
-        String color = lastBean.getColor();
-        Path path = whriteStatistics(color);
-        try {
-            List<String> attempts = Files.readAllLines(path);
-            attempts.stream().mapToLong(e-> getPercentage(e)).forEach(e -> System.out.println(e));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
 
-    private Path whriteStatistics(String color) {
-        Path path = Paths.get("file/output");
-        try {
-            Files.write(path, Collections.singleton(color), StandardOpenOption.APPEND);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return path;
-    }
 
     private void giveBeansColorsPercentage(List<Bean> beans) {
         long whiteBeans = getPercentage("white");

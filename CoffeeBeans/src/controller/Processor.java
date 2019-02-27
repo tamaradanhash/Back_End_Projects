@@ -11,32 +11,16 @@ import java.util.stream.IntStream;
 public class Processor {
     private List<Bean> beans = CanFiller.fill();
 
-    public Bean getLastBean() {
+    public List<Bean> getLastBean() {
         List<Bean> beanQ = new LinkedList<>(beans);
 
         Queue<Bean> beanQueue = (Queue<Bean>) beanQ;
-
 
         IntStream.generate(() -> 0)
                 .takeWhile(n -> beanQueue.size() > 1)
                 .forEach(e -> filter(beanQueue));
 
-
-        //.filter(e->filter(beanQ1)).collect(Collectors.toList());
-
-//                .flatMap(e-> Stream.of(beanQ1.add(Bean.builder().color("black").build()))
-//        .mapToObj(filter(beanQ1.poll(),beanQ1.poll())).map(e->beanQ1.add(e)).collect(Collectors.toList());
-
-
-//        while (beanQ1.size() != 1) {
-//            beanQ1.add(filter(beanQ1.poll(), beanQ1.poll()));
-//
-//
-//        }
-//
-//        return beanQ1.poll();
-
-        return beanQueue.poll();
+        return (List<Bean>) beanQueue;
 
     }
 
