@@ -1,0 +1,25 @@
+word:
+  name: fantastic
+magic:
+  number: 369
+week:
+  days: Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday
+bookShop:
+  books:
+    harrypotter: 3
+    thefoundation: 2
+    thelordoftherings: 4
+entertainment:
+  sauna:
+    availableseats: 2
+    temerature: 45
+show:
+  ballerinas[0]:
+    name: Tamara
+    performancequality: 5
+  ballerinas[1]:
+    name: Diba
+    performancequality: 3.9
+  ballerinas[2]:
+    name: Mahtab
+    performancequality: 4.2

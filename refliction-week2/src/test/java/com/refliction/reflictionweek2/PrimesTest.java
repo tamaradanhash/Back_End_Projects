@@ -13,11 +13,13 @@ public class PrimesTest {
 
     @Autowired
     Primes primes;
+
     @Test
     void isPrime() {
         assertTrue(primes.isPrime(7));
     }
-    void isNotPrime(){
+
+    void isNotPrime() {
         assertFalse(primes.isPrime(4));
     }
 
@@ -25,16 +27,16 @@ public class PrimesTest {
     @ParameterizedTest
     @CsvSource({
             "true,3",
-           "false, 26",
-           "false, 49",
-           "true, 11",
-           "false,0",
+            "false, 26",
+            "false, 49",
+            "true, 11",
+            "false,0",
 
     })
     void matche(boolean expected, int number) {
 
 
-        boolean result =primes.isPrime(number);
+        boolean result = primes.isPrime(number);
 
         assertEquals(expected, result);
     }

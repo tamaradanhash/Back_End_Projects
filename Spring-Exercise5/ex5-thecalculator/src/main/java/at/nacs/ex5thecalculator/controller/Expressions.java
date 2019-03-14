@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 public class Expressions {
 
     public Expression from(String input) {
-return  Stream.of(input)
+        return Stream.of(input)
                 .map(e -> e.split(" "))
                 .filter(e -> e.length == 3)
                 .map(e -> Expression.builder()

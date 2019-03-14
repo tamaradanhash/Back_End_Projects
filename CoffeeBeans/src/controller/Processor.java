@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 import java.util.stream.IntStream;
+
 @UtilityClass
 public class Processor {
     private List<Bean> beans = CanFiller.fill();

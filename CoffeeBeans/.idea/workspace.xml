@@ -2,18 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46f479ed-4de6-4773-a140-e9e260684a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/StatisticsWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PairProgrammingProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/Ballerina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/BallerinaContest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/MagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/Sauna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/SaunaLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/main/java/com/example/springweek3exercise1/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/test/java/com/example/springweek3exercise1/BallerinaContestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/test/java/com/example/springweek3exercise1/DaysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/test/java/com/example/springweek3exercise1/LibrarianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/test/java/com/example/springweek3exercise1/MagicNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/test/java/com/example/springweek3exercise1/SaunaLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise1/src/test/java/com/example/springweek3exercise1/WordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise3/src/main/java/com/example/springweek3exercise3/controller/Referee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise3/src/main/java/com/example/springweek3exercise3/model/Stadium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise3/src/main/java/com/example/springweek3exercise3/model/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise3/src/test/java/com/example/springweek3exercise3/controller/RefereeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-week3-exercise3/src/test/java/com/example/springweek3exercise3/model/StadiumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoffeeBeans/controller/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeBeans/controller/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoffeeBeans/file/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoffeeBeans/tests/ProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeBeans/tests/ProcessorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoffeeBeans/view/Analyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Analyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Analyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/CanFiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/CanFiller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controller/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file/output" beforeDir="false" afterPath="$PROJECT_DIR$/src/file/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/Analyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Analyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/StatisticsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/StatisticsWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Bean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Bean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Beans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Beans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/CanFillerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/CanFillerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitProject/src/controller/Assistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitProject/src/controller/Assistant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitProject/src/controller/AssistantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitProject/src/controller/AssistantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitProject/src/model/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitProject/src/model/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitProject/src/view/FruitCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitProject/src/view/FruitCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/src/Controller/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/src/Controller/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/src/Controller/ParticipantsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/src/Controller/ParticipantsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/src/Controller/TeamMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/src/Controller/TeamMaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/src/Model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/src/Model/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/src/View/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/src/View/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/AmazingHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/AmazingHelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/JackSparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/JackSparrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/LegendaryCompass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/LegendaryCompass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Cigar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Cigar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/EnglishGentleman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/EnglishGentleman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Lighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Lighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Monocle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Monocle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Expressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Subtraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/model/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise5/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/model/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/Primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/Primes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/PrimesAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/PrimesAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/ReflictionWeek2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/ReflictionWeek2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/test/java/com/refliction/reflictionweek2/PrimesAdderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/test/java/com/refliction/reflictionweek2/PrimesAdderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/test/java/com/refliction/reflictionweek2/PrimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/test/java/com/refliction/reflictionweek2/PrimesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,77 +76,6 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="235" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1783123317">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="8" />
-          <entry key="output" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="8" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="10" />
-          <entry key="java" value="2020" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2020" />
-          <entry key="PLAIN_TEXT" value="10" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-2018071850">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="2" />
-          <entry key="java" value="115" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="115" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -118,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/Beans.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="54">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/CanFiller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="270">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -142,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/Analyzer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="162">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -154,12 +130,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/StatisticsWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="234">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,11 +149,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/controller/Processor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="666">
+              <caret line="37" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -239,12 +213,6 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
@@ -257,8 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,6 +265,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,6 +348,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.CanFillerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -394,6 +363,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.ProcessorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -415,11 +385,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Analyzer" />
+      <item itemvalue="Application.StatisticsWriter" />
       <item itemvalue="JUnit.CanFillerTest" />
       <item itemvalue="JUnit.ProcessorTest.getLastBean" />
       <item itemvalue="JUnit.ProcessorTest" />
-      <item itemvalue="Application.Analyzer" />
-      <item itemvalue="Application.StatisticsWriter" />
     </list>
     <recent_temporary>
       <list>
@@ -445,6 +415,8 @@
       <workItem from="1550659500588" duration="62000" />
       <workItem from="1550659600631" duration="19477000" />
       <workItem from="1550739739750" duration="5762000" />
+      <workItem from="1551869702981" duration="967000" />
+      <workItem from="1551881857424" duration="1284000" />
     </task>
     <servers />
   </component>
@@ -481,12 +453,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28613000" />
+    <option name="totallyTimeSpent" value="30864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26342005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,6 +478,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.33296943" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -515,13 +489,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32982844" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Collections.class">
@@ -541,6 +513,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Beans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/CanFiller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/StatisticsWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoffeeBeans.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tests/ProcessorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -558,58 +576,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/model/Beans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/controller/Processor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/file/output.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/StatisticsWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoffeeBeans.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/Analyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controller/CanFiller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="666">
+          <caret line="37" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 @Value
 public class World {
-    public String getName(){
+    public String getName() {
         return "World";
     }
 }

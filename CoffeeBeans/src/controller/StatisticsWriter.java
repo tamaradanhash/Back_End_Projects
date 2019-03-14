@@ -9,12 +9,13 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class StatisticsWriter {
-    public static void writeStatistics(){
+    public static void writeStatistics() {
         List<String> lastBean = Processor.getLastBean().stream().map(e -> e.getColor()).collect(Collectors.toList());
-        append("file/output.txt",lastBean);
+        append("file/output.txt", lastBean);
 
     }
-    private static void append( String filePath,List<String> lines) {
+
+    private static void append(String filePath, List<String> lines) {
         try {
             Path path = Paths.get(filePath);
             Files.write(path, lines, StandardOpenOption.APPEND);

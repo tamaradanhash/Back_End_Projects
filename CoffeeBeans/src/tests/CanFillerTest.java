@@ -10,10 +10,10 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 class CanFillerTest {
-@Test
+    @Test
     void fill() {
 
-    List<Bean> beans= CanFiller.fill();
-    System.out.println(beans);
+        List<Bean> beans = CanFiller.fill();
+        System.out.println(beans);
     }
 }

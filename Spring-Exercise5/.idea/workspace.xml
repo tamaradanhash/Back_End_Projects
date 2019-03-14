@@ -2,277 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8d77d32-54a9-4c09-b2ce-e11ee69b0e9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/AmazingHelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise2/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/World.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/CursedCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/JackSparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise3/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/LegendaryCompass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Cigar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/CigarWasNotLitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/EnglishGentleman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Lighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Monocle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise4/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Newspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Expressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/model/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/Primes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/PrimesAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../refliction-week2/src/test/java/com/refliction/reflictionweek2/PrimesAdderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../refliction-week2/src/test/java/com/refliction/reflictionweek2/PrimesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeBeans/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/out/production/CoffeeBeans/controller/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeBeans/out/production/CoffeeBeans/controller/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/out/production/CoffeeBeans/file/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/out/production/CoffeeBeans/tests/ProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeBeans/out/production/CoffeeBeans/tests/ProcessorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/out/production/CoffeeBeans/view/Analyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/src/controller/Analyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeBeans/src/controller/Analyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/src/controller/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeBeans/src/controller/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoffeeBeans/src/controller/StatisticsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeeBeans/src/controller/StatisticsWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PairProgrammingProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PairProgrammingProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/PrimesAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/com/refliction/reflictionweek2/PrimesAdder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ex5-thecalculator/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -287,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/test/java/at/nacs/ex5thecalculator/controller/operation/DivisionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="17" selection-end-line="33" selection-end-column="5" />
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -298,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Division.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="72">
               <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -310,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Multiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="72">
               <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -322,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Subtraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="54">
               <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -352,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="144">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -364,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/test/java/at/nacs/ex5thecalculator/controller/ExpressionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="288">
               <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -385,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Expressions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="144">
               <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -447,8 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -672,6 +403,8 @@
       <workItem from="1551194275297" duration="8501000" />
       <workItem from="1551263351217" duration="5613000" />
       <workItem from="1551277109616" duration="621000" />
+      <workItem from="1551344283301" duration="233000" />
+      <workItem from="1551346768428" duration="34000" />
     </task>
     <servers />
   </component>
@@ -693,12 +426,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14735000" />
+    <option name="totallyTimeSpent" value="15002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -768,9 +502,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/test/java/at/nacs/ex5thecalculator/controller/operation/DivisionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="72">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -780,7 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Multiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="72">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -790,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/operations/Subtraction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="54">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -812,9 +556,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/test/java/at/nacs/ex5thecalculator/controller/ExpressionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="288">
           <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -831,28 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Expressions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="144">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/main/java/at/nacs/ex5thecalculator/controller/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex5-thecalculator/src/test/java/at/nacs/ex5thecalculator/controller/operation/DivisionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="17" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

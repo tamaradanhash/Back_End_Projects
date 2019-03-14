@@ -4,6 +4,7 @@ import at.nacs.ex5thecalculator.model.Expression;
 import lombok.Value;
 import lombok.experimental.UtilityClass;
 import org.springframework.stereotype.Component;
+
 @Value
 @Component
 public class Subtraction implements Operation {
@@ -14,6 +15,6 @@ public class Subtraction implements Operation {
 
     @Override
     public Double apply(Expression expression) {
-        return expression.getNumber1()-expression.getNumber2();
+        return expression.getNumber1() - expression.getNumber2();
     }
 }

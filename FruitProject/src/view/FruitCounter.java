@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 @Log
 public class FruitCounter {
 
-    public void display(List<Fruit> fruits){
-        fruits.stream().forEach(e -> log.info(e.getName()+" "+e.getAmount()));
+    public void display(List<Fruit> fruits) {
+        fruits.stream().forEach(e -> log.info(e.getName() + " " + e.getAmount()));
     }
 }

@@ -2,6 +2,7 @@ package at.nacs.ex2amazinghelloworld;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
+
 @RequiredArgsConstructor
 @Component
 public class AmazingHelloWorld {
@@ -9,7 +10,7 @@ public class AmazingHelloWorld {
     private final World world;
 
 
-    public String say(){
-        return hello.getName()+" "+world.getName();
+    public String say() {
+        return hello.getName() + " " + world.getName();
     }
 }

@@ -12,6 +12,6 @@ public class Division implements Operation {
 
     @Override
     public Double apply(Expression expression) {
-        return expression.getNumber1()/expression.getNumber2();
+        return expression.getNumber1() / expression.getNumber2();
     }
 }

@@ -3,6 +3,7 @@ package at.nacs.ex5thecalculator.model;
 import lombok.Builder;
 import lombok.Data;
 import org.springframework.stereotype.Component;
+
 @Builder
 
 @Data

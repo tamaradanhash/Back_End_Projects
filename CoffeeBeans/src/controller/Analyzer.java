@@ -11,20 +11,20 @@ import java.util.Collections;
 import java.util.List;
 
 public class Analyzer {
-    private List<Bean> beans=CanFiller.fill();
-    private List<Bean> lastBean= Processor.getLastBean();
-    public void analyse(){
+    private List<Bean> beans = CanFiller.fill();
+    private List<Bean> lastBean = Processor.getLastBean();
+
+    public void analyse() {
         giveBeansColorsPercentage(beans);
 
     }
 
 
-
     private void giveBeansColorsPercentage(List<Bean> beans) {
         long whiteBeans = getPercentage("white");
         long blackBeans = getPercentage("black");
-        System.out.println("white beans percentage is"+whiteBeans+"%\n");
-        System.out.println("black beans percentage is"+blackBeans+"%\n");
+        System.out.println("white beans percentage is" + whiteBeans + "%\n");
+        System.out.println("black beans percentage is" + blackBeans + "%\n");
 
     }
 
@@ -36,7 +36,7 @@ public class Analyzer {
     }
 
     public static void main(String[] args) {
-        Analyzer analyzer=new Analyzer();
+        Analyzer analyzer = new Analyzer();
         analyzer.analyse();
     }
 

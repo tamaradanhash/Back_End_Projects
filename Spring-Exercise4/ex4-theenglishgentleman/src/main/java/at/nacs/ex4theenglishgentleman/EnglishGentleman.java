@@ -3,6 +3,7 @@ package at.nacs.ex4theenglishgentleman;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+
 @Scope("prototype")
 @Component
 @RequiredArgsConstructor
@@ -12,10 +13,10 @@ public class EnglishGentleman {
     private boolean read;
     private boolean smoked;
 
-    public void smoke(Cigar cigar) throws CigarWasNotLitException{
-     lighter.light(cigar);
-     cigar.smoke();
-     smoked=true;
+    public void smoke(Cigar cigar) throws CigarWasNotLitException {
+        lighter.light(cigar);
+        cigar.smoke();
+        smoked = true;
     }
 
     public boolean isHasSmoked() {
@@ -25,7 +26,7 @@ public class EnglishGentleman {
 
     public void read(Newspaper newspaper) {
         monocle.read(newspaper);
-        read=true;
+        read = true;
     }
 
     public boolean isHasRead() {
