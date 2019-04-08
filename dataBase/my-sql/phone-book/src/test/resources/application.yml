@@ -1,0 +1,14 @@
+dataset:
+  contacts:
+    contact1:
+      name: tamara
+      address:
+        name: stefan
+    contact2:
+      name: rabie
+      address:
+        name: stefan
+    contact3:
+      name: omar
+      address:
+        name: rechte

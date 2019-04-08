@@ -1,0 +1,17 @@
+Domain:
+Patient
+String id
+String name
+String symptoms
+String diagnosis
+String treatment
+Endpoints:
+/patients
+Behaviour:
+POST a Patient with id, name, symptoms and diagnosis to /patients ->
+Provides the Patient with a treatment
+Later on: forwards the Patient to Accountancy
+Tests:
+Test the PatientsEndpoint with a TestRestTemplate and WebEnvironment.RANDOM_PORT
+Test the Nurse with WebEnvironment.NONE
+Mock the AccountancyClient in both cases

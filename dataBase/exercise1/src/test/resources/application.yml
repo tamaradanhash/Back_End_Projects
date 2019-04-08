@@ -1,0 +1,10 @@
+dataset:
+  todos:
+    - title: drink Mateh tea
+      done: false
+    - title: go to course
+      done: true
+    - title: eat lunch
+      done: false
+    - title: play Pubg
+      done: true
