@@ -1,5 +1,6 @@
 package com.example.beds.endpoints;
 
+import com.example.beds.communication.BedsClient;
 import com.example.beds.logic.Nurse;
 import com.example.beds.persistence.Patient;
 import lombok.RequiredArgsConstructor;
@@ -12,10 +13,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/patients")
 @RequiredArgsConstructor
 public class BedsEndpoint {
-    private final Nurse nurse;
+  private final Nurse nurse;
+  private final BedsClient client;
 
-    @PostMapping
-    public Patient post(@RequestBody Patient patient) {
-        return nurse.save(patient);
-    }
+  @PostMapping
+  public Patient post(@RequestBody Patient patient) {
+    client.post(patient);
+    return nurse.save(patient);
+  }
 }

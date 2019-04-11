@@ -11,12 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 public class MarcoEndpoint {
 
-    private final MarcoClient marco;
+  private final MarcoClient marco;
 
-    @GetMapping("/{message}")
-    String get(@PathVariable String message){
-       return marco.getMessage(message);
-
-    }
+  @GetMapping("/{message}")
+  String get(@PathVariable String message) {
+    return marco.getMessage(message);
+  }
 
 }

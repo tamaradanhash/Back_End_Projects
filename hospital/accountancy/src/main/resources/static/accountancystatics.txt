@@ -1,0 +1,47 @@
+Application drhouse-accountancy under the port 9005
+DTO - Data Transfer Object:
+
+PatientDTO
+String id
+String name
+String symptoms
+String diagnosis
+String treatment
+String medicine
+
+Domain:
+
+Patient
+Long id
+String uuid (id that arrived from the DTO)
+String name (unique)
+
+Invoice
+
+Long id
+Patient patient (many to one)
+Kind kind (enum)
+String symptoms
+String diagnosis
+String provided (either the treatment given or the medicine suggested)
+double cost
+boolean paid
+LocalDateTime timestamp
+
+Kind (Enum, values: TREATMENT, MEDICINE)
+
+Endpoints:
+
+/patients
+/invoices
+/invoices/{id}/paid
+
+Behaviour:
+
+POST a PatientDTO with id, name, symptoms, diagnosis and treatment or medicine to /patients ->
+Stores the Patient if it doesn’t exist, updates it if it already exists (based on the uuid)
+Calculates the cost of the treatment or medicine
+Creates an Invoice and stores it in the database
+
+GET to /invoices -> returns all available Invoices.
+PUT to /invoices/{id}/paid -> sets the Invoice with id as paid.
