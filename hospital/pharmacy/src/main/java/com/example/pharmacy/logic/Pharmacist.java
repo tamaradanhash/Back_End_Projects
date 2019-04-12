@@ -16,7 +16,7 @@ import java.util.Random;
 public class Pharmacist {
   private final PharmacyRepository repository;
 
-  private List<String> medicines = Arrays.asList("call family", "a kiss from a lover", "hang out with friends", "a night out with lots of fun");
+  private List<String> medicines = Arrays.asList("call family", "hang out with friends", "a night out with lots of fun");
 
   public Patient save(Patient patient) {
     Random random = new Random();
