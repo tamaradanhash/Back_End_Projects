@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Security</title>
+</head>
+<body>
+<h1>Thymeleaf security in memory</h1>
+<p>
+    This is just some meaningless text
+</p>
+<form method="post" th:action="@{/logout}">
+    <button>Sign Out</button>
+</form>
+</body>
+</html>

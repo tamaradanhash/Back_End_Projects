@@ -22,10 +22,10 @@ public class Accountant {
 
   public void post(PatientDTO patientDTO) {
     Patient patient = patientManager.creat(patientDTO);
+    patientManager.store(patient);
     Invoice invoice = invoiceManager.create(patientDTO, patient);
     Double costs = calculateCosts(invoice);
     invoice.setCost(costs);
-    patientManager.store(patient);
     invoiceManager.save(invoice);
   }
 

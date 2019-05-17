@@ -1,3 +1,19 @@
 fever chills cough malaise headache;influenza
-Pain, fullness, squeezing sensation of the chest, Jaw pain, toothache, headache,Shortness of breath,Nausea, vomiting, general epigastric (upper middle abdomen) discomfort, Sweating, Heartburn and/or indigestion, Arm pain (more commonly the left arm, but may be either arm), Upper back pain, General malaise (vague feeling of illness);heart attack
-dizziness, shortness of breath, headache, and blurred vision, nosebleeds, blood in the urine, fatigue, chest pain, pounding sensation in the neck chest or ear; high blood pressure
+Pain, fullness, squeezing sensation of the chest, Jaw pain, toothache, headache,Shortness of breath,Nausea, vomiting, general epigastric discomfort, Sweating, Heartburn and/or indigestion, Arm pain (more commonly the left arm, but may be either arm), Upper back pain, General malaise (vague feeling of illness);heart attack
+dizziness, shortness of breath, headache, blurred vision, nosebleeds, blood in the urine, fatigue, chest pain, pounding sensation in the neck chest or ear; high blood pressure
+pulsating feeling near the belly button, persistent back pain, persistent abdominal pain, dizziness, sweaty and clammy skin, rapid heartbeat (tachycardia),  shortness of breath, feeling faint, loss of consciousness;abdominal aortic aneurysm
+sudden sharp pain in the upper right side of the abdomen, a high temperature (fever), nausea and vomiting, sweating, loss of appetite, yellowing of the skin and the whites of the eyes (jaundice), a bulge in the abdomen;acute cholecystitis
+pale skin, tiredness, breathlessness, breathlessness, having repeated infections over a short space of time, unusual and frequent bleeding, high temperature (fever) of 38C (100.4F) or above, night sweats, bone and joint pain, easily bruised skin, swollen lymph nodes (glands), abdominal pain – caused by a swollen liver or spleen, unexplained weight loss,  a purple skin rash (purpura);acute lymphoblastic leukaemia
+
+
+
+
+
+
+
+
+
+
+
+
+

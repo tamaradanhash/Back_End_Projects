@@ -1,0 +1,17 @@
+dataset:
+  costs:
+    call family: 0.5
+    hang out with friends: 14.0
+    a night out with lots of fun: 25.5
+    love: 100.0
+    happiness: 1000.0
+    positivity: 5.5
+    friends: 0.5
+    family: 101.2
+
+patientdto:
+  name: tamara
+  id: 22
+  symptoms: headach
+  diagnose: Flue
+  medicine: callfamily
